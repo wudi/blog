@@ -4,3 +4,14 @@ author: Di Wu
 email: hi@wudi.io
 description: > 
   A programming engineer from China.
+
+permalink: /:slug.html
+
+favicon: "logo.png"
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
