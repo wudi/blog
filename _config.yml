@@ -9,6 +9,8 @@ permalink: /:slug.html
 
 favicon: "logo.png"
 
+goat_counter: wudi
+
 sass:
   style: :compressed
 
