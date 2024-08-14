@@ -1,8 +1,7 @@
 ---
-slug: concept-of-recall-and-precision-in-machine-learning
+slug: concept-of-recall-and-precision-in-machine-learning-or-llm
+title: 机器学习/大模型领域中召回率(Recall)和精确率(Precision)是什么意思？
 ---
-
-# 机器学习/大模型领域中召回率(Recall)和精确率(Precision)是什么意思？
 
 ## 召回率 (Recall)
 
