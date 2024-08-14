@@ -2,13 +2,6 @@
 
 — Wes Dyer
 
-
-## Contact Me
-
-Github: [wudi](https://github.com/wudi)
-
-Email: hi#wudi.io
-
 ## Notes
 
 <ul>
