@@ -8,8 +8,14 @@
       </div>
     </main>
 
-    {% if site.goat_counter and jekyll.environment == "production" %}
-      {% include goat_counter.html %}
-    {% endif %}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R08E6WND7W"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-R08E6WND7W');
+    </script>
   </body>
 </html>
