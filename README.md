@@ -4,9 +4,11 @@
 
 ## About Me
 
-Currently working in the infra team, focusing on SaaS infra, distributed service, and RPC framework etc. 
+Currently working in the infra team, focusing on SaaS infra, distributed service, framework and LLM base etc. 
+
 Interested in PL and compiler technologies. 
-Currently working at Tencent, previously worked at Baidu, KingNet.
+
+Currently working at Tencent, previously worked at Baidu, KingNet, Anchnet.
 
 ## Contact Me
 
