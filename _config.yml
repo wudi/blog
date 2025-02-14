@@ -16,6 +16,7 @@ theme_config:
   show_description: false # show blog description in home page
 
 goat_counter: wudi
+google_analytics: G-R08E6WND7W
 
 sass:
   style: :compressed
